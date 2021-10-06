@@ -20,7 +20,7 @@ What I've learned:
 
 ## Usage
 
-
+<img width="1400" alt="截屏2021-10-06 下午7 41 40" src="https://user-images.githubusercontent.com/68092036/136298230-5eb74e4a-2f4e-413d-ad04-57c92ec42806.png">
 * Open the live URL:  https://lijing-code.github.io/Server-Side-APIs-Weather-Dashboard/
 * Enter the city name in the column upon the Search button.
 * When you click the Search button, the city name will have a history record below.
