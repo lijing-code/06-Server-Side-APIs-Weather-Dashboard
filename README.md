@@ -15,16 +15,18 @@ What I've learned:
 
 ## Installation
 * Log in GitHub Account
-* This GitHub URL is : https://github.com/lijing-code/05-Third-Party-APIs-Work-Day-Scheduler
-* The live URL is : https://lijing-code.github.io/05-Third-Party-APIs-Work-Day-Scheduler/
+* This GitHub URL is : https://github.com/lijing-code/Server-Side-APIs-Weather-Dashboard
+* The live URL is : https://lijing-code.github.io/Server-Side-APIs-Weather-Dashboard/
 
 ## Usage
 
 
-* Open the live URL:  https://lijing-code.github.io/05-Third-Party-APIs-Work-Day-Scheduler/
-* Enter the work schedule content for each hour.
-* Press the button for each line to save the content.
-* When you finish the task, delete it and save again.
+* Open the live URL:  https://lijing-code.github.io/Server-Side-APIs-Weather-Dashboard/
+* Enter the city name in the column upon the Search button.
+* When you click the Search button, the city name will have a history record below.
+* The right upper section is the current weather for the location.
+* The right lower section is the five day forecast for the location.
+* Click the history record button for each city, you can retrive the weather record for that city.
 
 ## License
 MIT License
