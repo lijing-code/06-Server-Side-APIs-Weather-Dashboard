@@ -16,7 +16,7 @@ What I've learned:
 ## Installation
 * Log in GitHub Account
 * This GitHub URL is : https://github.com/lijing-code/Server-Side-APIs-Weather-Dashboard
-* The live URL is : https://lijing-code.github.io/Server-Side-APIs-Weather-Dashboard/
+* The live URL is : https://lijing-code.github.io/06-Server-Side-APIs-Weather-Dashboard/
 
 ## Usage
 <img width="1397" alt="截屏2021-10-06 下午7 43 13" src="https://user-images.githubusercontent.com/68092036/136298320-28715ffd-b640-4121-9265-43d702a21b74.png">
